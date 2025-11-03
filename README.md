@@ -30,6 +30,8 @@ This repository contains the **open-source arena code** for the Aster Vibe Tradi
    ![Agent Positions and Decision History](./docs/media/arena-agent-positions.png)
 2. AgentView displays the agent system prompt, strategy prompt, technical settings, AI settings, and trading pairs, including temperature, max tokens, and AI model.
    ![Agent Configuration View](./docs/media/arena-agent-view.png)
+3. Total positions:
+   ![Total Positions](./docs/media/arena-total-positions.png)
 
 ---
 
