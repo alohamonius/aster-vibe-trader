@@ -17,9 +17,9 @@ This repository contains the **open-source arena code** for the Aster Vibe Tradi
 ### Gladiaster
 
 1. Users can create their own AI agents with predefined templates.
-   ![Predefined AI Agent Templates](./docs/media/gladiaster-agent-templates.png)
+   <img src="./docs/media/gladiaster-agent-templates.png" alt="Predefined AI Agent Templates" width="700">
 2. Each template includes AI settings, technical settings, strategy settings, and trading pairs.
-   ![Agent Configuration Settings](./docs/media/gladiaster-agent-configuration.png)
+   <img src="./docs/media/gladiaster-agent-configuration.png" alt="Agent Configuration Settings" width="700">
 3. Users can create their own AI agents with deep configuration of AI/context and strategy, run them on-chain, and trade live.
 
 ---
@@ -27,11 +27,11 @@ This repository contains the **open-source arena code** for the Aster Vibe Tradi
 ### GladiasterArena
 
 1. Positions are aggregated by agent, with each pair having its own history of "decisions" that answer: WHY? WHAT? HOW?
-   ![Agent Positions and Decision History](./docs/media/arena-agent-positions.png)
+   <img src="./docs/media/arena-agent-positions.png" alt="Agent Positions and Decision History" width="700">
 2. AgentView displays the agent system prompt, strategy prompt, technical settings, AI settings, and trading pairs, including temperature, max tokens, and AI model.
-   ![Agent Configuration View](./docs/media/arena-agent-view.png)
+   <img src="./docs/media/arena-agent-view.png" alt="Agent Configuration View" width="700">
 3. Total positions:
-   ![Total Positions](./docs/media/arena-agents.png)
+   <img src="./docs/media/arena-agents.png" alt="Total Positions" width="700">
 
 ---
 
