@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Read(//Users/macbook/git-public/ai/act1/aster-volume/**)"],
+    "deny": [],
+    "ask": []
+  }
+}

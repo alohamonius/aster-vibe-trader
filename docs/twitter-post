@@ -1,0 +1,51 @@
+"Can you explain..." triggers the years I worked as a teacher.
+
+I'd love to
+
+Funding rate arbitrage is a type of "cash-and-carry" trade where you make money having an equal long and short exposure to an asset.
+
+FOR EXAMPLE
+
+If I held 10 ETH and opened up a 10 ETH short, I would be "delta neutral."
+
+Delta neutral just means my strategy value doesn't go up or down due to price action (i.e., "delta").
+
+The cool thing about perps is that they have funding rates and more-often-than-not those rates pay you to be short. 
+
+Right now, for example, shorting HYPE on Drift pays 74% APR on the notional value of your position.
+
+The notional value is the size of your exposure to an asset, not your principal.
+
+Principal = starting capital / money at risk / margin
+Notional = starting capital times leverage / (how much exposure you have to an asset)
+
+Because funding is on the notional, not the principal, if you're leveraged, you effectively get leveraged exposure to the funding rate, which is great.
+
+ANYWHO, funding rate arbitrage is super simple, so let me explain the APR.
+
+Imagine I'm okay with a 2x short on HYPE but want to be delta neutral, and I have $150,000.
+
+1) Buy $100K of HYPE
+2) Short $100K of HYPE using $50K of margin 
+(2x short)
+3) Typically, I like to get yield on the long, could get 12% on Pendle
+
+You're done! Here's the math for APR:
+100K Long * 12% = $12K
+100K Short at 30% = $30K
+Total Annualized Yield = $42K
+Principal (in $) = 150K
+Yield divided by Principal = $42K/$150K 
+= 28% APR DELTA NEUTRAL
+
+Please note, there are risks. You could get liquidated on your short, especially if you're not monitoring it regularly, shorting illiquid assets, or using too much leverage.
+
+I rarely ever exceed 2x leverage for FR arb and only use big blue chips like ETH, BTC, SOL, etc.
+
+There's also a risk of funding turning against you. The reason why shorts get paid by long is because market pressures are pushing the MARKET PRICE on the perp dex over the INDEX PRICE (this is just an average of prices across major dexs/cexs).
+
+Funding is used to incentivize getting the Market Price closer to the Index price.
+
+IF market price goes below index price, funding rate goes negative and shorts actually pay longs instead.
+
+THAT'S ALL! Hope that helps. Happy farming

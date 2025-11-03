@@ -1,0 +1,191 @@
+# Trade Smarter & Earn Better
+
+**Important** **Update as of 22 September 2025**
+
+- Aster Genesis: Stage 2 is entering its final stretch with just 2 epochs left. Stage 2 will officially end at **23:59 UTC, Oct 5 2025**. Users still have time to climb the ranks and earn points.
+- 4% of $ASTER total supply has been allocated as rewards for this stage, incentivizing traders who have been trading on Aster Pro during this time period.
+- Stage 3 will begin immediately after the end of Stage 2, bringing an updated scoring mechanism to include spot trades and refreshed incentives, to reward active traders.
+
+Stay tuned for the full reveal as we enter the next evolution of the Aster incentives!
+
+**Trade Smarter & Earn Better**\\
+
+Aster’s trading points program, Aster Genesis: Stage 2 is back and this time, it’s better and more rewarding!
+
+We’ve redesigned Aster’s points program to better reward committed traders who stay active over time. If you’re here for the long game, you’ll earn more Rh points toward your future $ASTER allocation.
+
+### How do Rh points work in Stage 2?
+
+Like in [Stage 1](https://docs.asterdex.com/stage-1-spectra/aster-spectra-stage-1), Aster will continue using Rh points as the rewards mechanism for Stage 2. Points are calculated on a weekly basis, with each “epoch” running from Monday 00:00 UTC to Sunday 23:59 UTC, unless otherwise stated.
+
+In Stage 2, the system introduces changes that reward the quality of trading, not just the quantity.
+
+**What are Rh points?**
+
+Rh points are Aster Stage 2 airdrop points for trading on Aster Pro mode (Aster Simple mode and Dumb mode do not earn Rh points).&#x20;
+
+**Scoring calculation**
+
+Rh = (Trading volume score + Holding time score + Aster asset holding score + Profit score + Loss score) \* Team boost + Referral commission points
+
+**_Note: Weightings are not undisclosed._**
+
+Rh points in Stage 2 are based on a multi-dimensional scoring model, taking into account factors such as:
+
+**Trading Volume Score**
+
+- The higher your trading volume on Aster Pro, the more Rh points you earn.
+- Taker trades earn 2x the points of maker trades.
+
+**Holding Time Score**
+
+- The longer you hold a position, the more Rh points you earn.
+- Points are capped at 2x your weekly trading volume.
+- Updated on a T+1 basis.
+
+**Aster Asset Holding Score**
+
+- Earn Rh points by using Aster assets such as asBNB or USDF as margin.
+- Points are capped at 2x your weekly trading volume.
+- Updated on a T+1 basis.
+
+**Realized PnL Score**
+
+- Daily realized profit and loss (excluding fees such as funding fees) contributes to Rh points.
+- Updated on a T+1 basis.
+
+**Referral & Team Points Score**
+
+- Earn a share of your invitees’ base Rh points: 10% from first-level invitees and 5% from second-level invitees.
+
+- Base Rh points include trading volume, holding time score, Aster asset holding score, and realized PnL score.
+
+- Team boosts are recalculated weekly, with the following week’s points reflecting the previous week’s boost.\\
+
+- Referral score example
+
+- A invites B, C, and D:
+
+- A earns 10% of B/C/D’s base Rh points (excluding team boosts).
+
+- If B invites C and C invites D (maximum two levels):
+
+- A earns 10% of B’s base Rh.
+
+- A earns 5% of C’s base Rh.
+
+- Base Rh includes trading volume, holding time, Aster asset holding, and realized PnL.
+
+**Note**
+
+_While the exact formulas and weightings remain undisclosed, all factors above are calculated weekly to determine Rh points. These points accumulate toward your $ASTER airdrop share at the end of Stage 2._
+
+**Terms & Conditions**
+
+- Market makers cannot earn Rh points.
+- After the end of each cycle, Aster may adjust the rules according to user feedback and market conditions. Rh points will be released non-linearly.
+- Only participants who meet all the requirements will be considered as a qualified user.
+- The Rh points are limited to only one entry per user; bot registered accounts will not be eligible for rewards&#x20;
+- Aster reserves the right to disqualify trades that are deemed to be wash trades, displaying attributes of market manipulation, bulk-account registrations to farm additional bonuses, or any other attempts at fraud.
+- Aster reserves the right to cancel or amend any Activity or Activity Rules at our sole discretion.
+- Aster reserves the right of final interpretation of this activity.
+
+_Risk warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from Aster. Aster will not be liable for any loss that might arise from your use of Aster._
+
+\\
+
+# Rh points calculation scenarios
+
+**User Comparison**
+
+| User  | Weekly Trading Volume (USD) | Holding Time/Rank | Profit or Loss/Rank | Aster Asset/Rank    |
+| ----- | --------------------------- | ----------------- | ------------------- | ------------------- |
+| Alice | 100,000                     | 60 min, Rank=12   | -2000, Rank=30      | 25,000 USD, Rank=10 |
+| Bob   | 500,000                     | 1 min, Rank=100   | +2000, Rank=1000    | 10 USD, Rank=500    |
+
+**Scoring Results (Example)**
+
+####
+
+| User  | Trading Volume Score | Holding Time Score | Profit/Loss Score | Asset Score | Total Score    |
+| ----- | -------------------- | ------------------ | ----------------- | ----------- | -------------- |
+| Alice | Low                  | High               | Medium-High       | High        | Overall Higher |
+| Bob   | High                 | Low                | Medium-High       | Low         | Overall Lower  |
+
+**Important note**
+
+- Scores for metrics other than trading volume are determined by your leaderboard ranking in Aster’s weekly stats, not by absolute values
+- Formulas and weightings for all metrics are carefully adjusted to prevent extreme behavior from distorting results.
+
+# Referral bonus & Team boosts
+
+### 1. How to generate invite code
+
+Go to the[ ](https://www.asterdex.com/en/stage1/team)[S2 landing page](https://www.asterdex.com/en/stage2/team). Connect your wallet. Your invite code will be automatically displayed. Share the code with your invitees. You can also change your name by clicking on the edit button.
+
+<figure><img src="https://4068247257-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWhSHuKmgnGREbVb12PK2%2Fuploads%2FU4Zw3UXU1E9nnLPDmV6M%2F%E6%88%AA%E5%B1%8F2025-09-08%2010.32.03.png?alt=media&#x26;token=d50a4b4d-d0d9-4d13-bfc1-0441c445fbf4" alt=""><figcaption></figcaption></figure>
+
+### 2. How to bind invite code
+
+Go to the[ ](https://www.asterdex.com/en/stage1/team)[S2 landing page](https://www.asterdex.com/en/stage2/team) and connect your wallet. Click \[Bind your invite code quickly]. Enter your inviter’s code. Once done, you will see yourself in the Inviter Team.
+
+<figure><img src="https://4068247257-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWhSHuKmgnGREbVb12PK2%2Fuploads%2FhS75tMJJy5y7Yl3BLzYS%2F%E6%88%AA%E5%B1%8F2025-09-08%2010.33.58.png?alt=media&#x26;token=8337e3e1-a82d-4d57-bc76-ac070e459630" alt=""><figcaption></figcaption></figure>
+
+### Rh referral bonus
+
+- Tier 1 referral: Get 10% of your invitees’ Rh points when they trade on Aster Pro Mode. Your invitees must bind your invite code before their first trade.
+- Tier 2 referral: Get 5% when your invitees refer their friends to trade. Your invitee’s friends must bind your invitee’s invite code before their first trade.
+
+**Scenario:**
+
+Wyn invites Yuki to trade on Aster Pro Mode. Yuki binds Wyn’s invite code.
+
+- Yuki trades 5,000 USD volume. She earns 5,000 Rh.
+- Wyn earns 10% of Yuki’s points. Thus, she gets 5,000\*0.1 = 500 Rh.
+
+Yuki invites Zen to trade on Aster Pro Mode. Zen binds Yuki’s invite code.
+
+- Zen trades 2,000 USD volume. Zen earns 2,000 Rh.
+- Yuki earns 10% of Zen’s points. Thus, she gets 2,000\*0.1 = 200 Rh.
+- Wyn earns 5% of Zen’s points. Thus, she gets 2,000\*0.05 = 100 Rh.
+
+<figure><img src="https://4068247257-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWhSHuKmgnGREbVb12PK2%2Fuploads%2FotZp45x38HwwuTkzQr2U%2F%E6%88%AA%E5%B1%8F2025-09-08%2010.29.39.png?alt=media&#x26;token=c5c85634-43f6-480c-bf49-ac579a2f316c" alt=""><figcaption></figcaption></figure>
+
+### Rh team boost
+
+Everyone in a referral family is a team. Teams can enjoy team boosts. A team is composed of the following members:
+
+- The person who invited you (A)
+- Other invitees of the person who invited you (B)
+- Yourself (C )
+- Your invitees (D)
+
+For example: Yuki invited you and Wyn to Aster. You invited Zen, and Zen invited Ben.
+
+- Yuki = A
+- Wyn = B
+- You = C
+- Zen = D
+- Ben is not part of your team because he is a referral of your referral (second level).
+
+#### How team boosts work
+
+- Team boosts are based on the team’s cumulative Rh earned from trading on Aster Pro in the previous day.
+- Daily snapshots are taken to calculate team Rh points.
+- Rh from referral bonuses or previous team boosts are not included.
+
+**Example**
+
+Wyn, Yuki, and Zen are a team. On the previous day, they earned:
+
+- Wyn: 600,000 Rh
+- Yuki: 300,000 Rh
+- Zen: 100,000 Rh
+
+Team Rh = 600,000 + 300,000 + 100,000 = 1,000,000 Rh
+
+According to the boost table, the team qualifies for a 1.05x boost, applied equally to each member’s Rh:
+
+- Wyn: 600,000 × 1.05 = 630,000 Rh
+- Yuki: 300,000 × 1.05 = 315,000 Rh
+- Zen: 100,000 × 1.05 = 105,000 Rh

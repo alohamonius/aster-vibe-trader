@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "CommonJS",
+    "lib": ["ES2023"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "types": ["node"],
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"],
+      "@/core/*": ["core/*"],
+      "@/infrastructure/*": ["infrastructure/*"],
+      "@/services/*": ["services/*"],
+      "@/shared/*": ["shared/*"],
+      "@/scripts/*": ["scripts/*"],
+      "@/types/*": ["shared/types/*", "core/types/*"],
+      "@/utils/*": ["shared/utils/*"],
+      "@/api/*": ["infrastructure/api/*"],
+      "@/agents/*": ["core/agents/*"],
+      "@/bots/*": ["core/bots/*"],
+      "@/strategies/*": ["core/strategies/*"],
+      "@/dex/*": ["infrastructure/dex/*"],
+      "@/db/*": ["infrastructure/database/*"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.test.ts", "**/*.spec.ts"]
+}

@@ -1,0 +1,59 @@
+{
+  "strategyType": "OTOCO",
+  "subOrderList": [
+    {
+      "symbol": "DOGEUSDT",
+      "strategySubId": 1,
+      "firstDrivenId": 0,
+      "secondDrivenId": 0,
+      "side": "BUY",
+      "positionSide": "BOTH",
+      "type": "LIMIT",
+      "quantity": "471.2400",
+      "securityType": "USDT_FUTURES",
+      "reduceOnly": false,
+      "timeInForce": "GTC",
+      "price": "0.24"
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "side": "SELL",
+      "positionSide": "BOTH",
+      "securityType": "USDT_FUTURES",
+      "firstTrigger": "PLACE_ORDER",
+      "firstDrivenOn": "PARTIALLY_FILLED_OR_FILLED",
+      "secondDrivenOn": "PARTIALLY_FILLED_OR_FILLED",
+      "secondTrigger": "CANCEL_ORDER",
+      "timeInForce": "GTE_GTC",
+      "reduceOnly": true,
+      "quantity": "471.2400",
+      "strategySubId": 2,
+      "firstDrivenId": 1,
+      "secondDrivenId": 3,
+      "stopPrice": "0.24024",
+      "workingType": "MARK_PRICE",
+      "type": "TAKE_PROFIT_MARKET",
+      "priceProtect": true
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "side": "SELL",
+      "positionSide": "BOTH",
+      "securityType": "USDT_FUTURES",
+      "firstTrigger": "PLACE_ORDER",
+      "firstDrivenOn": "PARTIALLY_FILLED_OR_FILLED",
+      "secondDrivenOn": "PARTIALLY_FILLED_OR_FILLED",
+      "secondTrigger": "CANCEL_ORDER",
+      "timeInForce": "GTE_GTC",
+      "reduceOnly": true,
+      "quantity": "471.2400",
+      "strategySubId": 3,
+      "firstDrivenId": 1,
+      "secondDrivenId": 2,
+      "stopPrice": "0.23976",
+      "workingType": "MARK_PRICE",
+      "type": "STOP_MARKET",
+      "priceProtect": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect width="400" height="400" fill="white"/>
+  
+  <!-- Main geometric shape -->
+  <g fill="black">
+    <!-- Top diamond -->
+    <path d="M 200 50 L 250 100 L 200 150 L 150 100 Z M 200 70 L 170 100 L 200 130 L 230 100 Z" fill-rule="evenodd"/>
+    
+    <!-- Left side of cube -->
+    <path d="M 50 150 L 150 100 L 150 200 L 100 225 L 100 300 L 50 325 Z M 70 175 L 70 250 L 100 235 L 100 160 L 70 175 Z" fill-rule="evenodd"/>
+    
+    <!-- Right side of cube -->
+    <path d="M 350 150 L 350 325 L 300 300 L 300 225 L 250 200 L 250 100 Z M 330 175 L 300 160 L 300 235 L 330 250 L 330 175 Z" fill-rule="evenodd"/>
+    
+    <!-- Center cube face -->
+    <path d="M 150 100 L 200 75 L 250 100 L 250 200 L 200 225 L 150 200 Z"/>
+    
+    <!-- Bottom V shape -->
+    <path d="M 200 225 L 200 325 L 150 300 L 150 250 L 100 225 L 100 300 L 50 325 L 50 350 L 200 275 L 350 350 L 350 325 L 300 300 L 300 225 L 250 250 L 250 300 L 200 325 Z"/>
+    
+    <!-- Left maze pattern -->
+    <path d="M 100 235 L 130 220 L 130 260 L 170 240 L 170 270 L 130 290 L 130 320 L 100 335 Z"/>
+    
+    <!-- Right maze pattern -->
+    <path d="M 300 235 L 300 335 L 270 320 L 270 290 L 230 270 L 230 240 L 270 260 L 270 220 Z"/>
+  </g>
+</svg>
